@@ -2,7 +2,7 @@
 
 version=1.0
 Output() {
-	echo "Usage: ./rpsm.sh <options> < directory>"
+	echo "Usage: ./filePerms.sh <options> < directory>"
 echo "Reports selected information about specified directory tree.\n"
 	echo "Options:"
 	echo "-h Print this help message, i.e., \"Usage: ./rpsm.sh ... ... (except -h and -v)"
